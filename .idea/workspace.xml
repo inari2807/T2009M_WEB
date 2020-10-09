@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bdf0870-0185-415b-9536-01bdd7279879" name="Default Changelist" comment="" />
+    <list default="true" id="3bdf0870-0185-415b-9536-01bdd7279879" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/imgs/anh1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Onepiece.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/khangpyke1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/khangpyke2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/khangpyke3.mp4" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/media" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,8 +49,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\0165s\WebstormProjects\nguyenvantruong\media" />
       <recent name="C:\Users\0165s\WebstormProjects\nguyenvantruong\imgs" />
+      <recent name="C:\Users\0165s\WebstormProjects\nguyenvantruong\media" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,6 +65,7 @@
       <workItem from="1602131477022" duration="1483000" />
       <workItem from="1602158629158" duration="2169000" />
       <workItem from="1602161597199" duration="1963000" />
+      <workItem from="1602257113869" duration="3131000" />
     </task>
     <task id="LOCAL-00001" summary="za">
       <created>1602131495033</created>

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bdf0870-0185-415b-9536-01bdd7279879" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,8 @@
       <workItem from="1602158629158" duration="2169000" />
       <workItem from="1602161597199" duration="1963000" />
       <workItem from="1602257113869" duration="3197000" />
-      <workItem from="1602260384589" duration="430000" />
+      <workItem from="1602260384589" duration="945000" />
+      <workItem from="1602293128914" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="za">
       <created>1602131495033</created>
@@ -96,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602260391053</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="baitap1">
+      <created>1602260829387</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602260829387</updated>
+    </task>
+    <task id="LOCAL-00007" summary="baitap1">
+      <created>1602260860428</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602260860428</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="za" />
-    <option name="LAST_COMMIT_MESSAGE" value="za" />
+    <MESSAGE value="baitap1" />
+    <option name="LAST_COMMIT_MESSAGE" value="baitap1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602131317353">
@@ -115,18 +130,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="489" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602162354246" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602260390376">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602260859886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602260390376" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602260859886" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1602129022308">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602129022308" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602260410265">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602260865596">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602260410265" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602260865596" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1602131065063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

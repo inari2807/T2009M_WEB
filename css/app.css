@@ -1,0 +1,29 @@
+body {
+    background-color: #f2f2f2f2;
+    background-image: url("../imgs/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: red;
+font-size: 18px;
+line-height: 1.25;
+    font-family: "Times New Roman";
+}
+d {
+    color: #232323;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    text-transform:uppercase;
+    background-color: orange;
+    text-align-all: center;
+
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+

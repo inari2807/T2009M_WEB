@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bdf0870-0185-415b-9536-01bdd7279879" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/app2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/baitap2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hocbai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anhbaitap2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nopbaitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss2democss.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -29,6 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,7 +70,12 @@
       <workItem from="1602161597199" duration="1963000" />
       <workItem from="1602257113869" duration="3197000" />
       <workItem from="1602260384589" duration="945000" />
-      <workItem from="1602293128914" duration="611000" />
+      <workItem from="1602293128914" duration="9439000" />
+      <workItem from="1602305779290" duration="684000" />
+      <workItem from="1602341508883" duration="31000" />
+      <workItem from="1602474596371" duration="2732000" />
+      <workItem from="1602477351173" duration="8000" />
+      <workItem from="1602515935590" duration="2474000" />
     </task>
     <task id="LOCAL-00001" summary="za">
       <created>1602131495033</created>
@@ -110,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602260860428</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="baitap1">
+      <created>1602293834265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602293834265</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,22 +149,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602131317353" />
-    <state x="489" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602162354246">
+    <state x="489" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602295650406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="489" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602162354246" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602260859886">
+    <state x="489" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602295650406" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602293833309">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602260859886" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602293833309" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1602129022308">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602129022308" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602260865596">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602293845811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602260865596" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602293845811" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1602131065063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

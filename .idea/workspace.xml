@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bdf0870-0185-415b-9536-01bdd7279879" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/app2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/baitap2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hocbai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/anhbaitap2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nopbaitap2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss2democss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/app4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/lamlaibai3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoclythuyetbai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jean1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jean2.pnh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jean3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jean4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jean5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jean6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jean7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jean8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamlaibai3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baitap2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nopbaitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/nopbaitap2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -75,7 +80,13 @@
       <workItem from="1602341508883" duration="31000" />
       <workItem from="1602474596371" duration="2732000" />
       <workItem from="1602477351173" duration="8000" />
-      <workItem from="1602515935590" duration="2474000" />
+      <workItem from="1602515935590" duration="4962000" />
+      <workItem from="1602724725607" duration="30000" />
+      <workItem from="1602724891680" duration="647000" />
+      <workItem from="1602726073787" duration="11790000" />
+      <workItem from="1602745735347" duration="2470000" />
+      <workItem from="1602763262850" duration="7339000" />
+      <workItem from="1602780331519" duration="5132000" />
     </task>
     <task id="LOCAL-00001" summary="za">
       <created>1602131495033</created>
@@ -133,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602293834265</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="baitap2">
+      <created>1602518431792</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602518431792</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +160,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="za" />
     <MESSAGE value="baitap1" />
-    <option name="LAST_COMMIT_MESSAGE" value="baitap1" />
+    <MESSAGE value="baitap2" />
+    <option name="LAST_COMMIT_MESSAGE" value="baitap2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602131317353">
@@ -153,25 +172,33 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="489" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602295650406" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602293833309">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602745859182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602293833309" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1602129022308">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602745859182" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602518431082">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602129022308" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602293845811">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602518431082" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602726374180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602293845811" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602726374180" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602518436136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602518436136" />
+    <state x="108" y="105" width="1218" height="810" key="dock-window-1" timestamp="1602730099966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="108" y="105" width="1218" height="810" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602730099966" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1602131065063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602131065063" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602132247462">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602724730339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602132247462" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602724730339" />
   </component>
 </project>

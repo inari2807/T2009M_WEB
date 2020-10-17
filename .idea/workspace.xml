@@ -72,6 +72,7 @@
       <workItem from="1602763262850" duration="7339000" />
       <workItem from="1602780331519" duration="5132000" />
       <workItem from="1602785483407" duration="345000" />
+      <workItem from="1602897942143" duration="337000" />
     </task>
     <task id="LOCAL-00001" summary="za">
       <created>1602131495033</created>
@@ -143,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602785655195</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="nopbaitap4">
+      <created>1602898154946</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602898154946</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

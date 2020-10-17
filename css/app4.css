@@ -7,7 +7,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .mainbox{
-    background-color: #CFCFCF;
+    background-color: #EEEEEE;
     width: 1200px;
     height: 1300px;
     margin-top: 50px;
@@ -16,11 +16,13 @@ body{
     overflow: hidden;
 }
 .khoitieude{
+    display: block;
     background-color: white;
     width: 1100px;
     height: 50px;
     margin-left: 50px;
     margin-top: 30px;
+    overflow: hidden;
 
 }
 .khoitieude h3{

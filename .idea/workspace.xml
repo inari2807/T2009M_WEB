@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bdf0870-0185-415b-9536-01bdd7279879" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/app4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/lamlaibai3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoclythuyetbai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/jean1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/jean2.pnh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/jean3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/jean4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/jean5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/jean6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/jean7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/jean8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamlaibai3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baitap2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nopbaitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/nopbaitap2.html" afterDir="false" />
-    </list>
+    <list default="true" id="3bdf0870-0185-415b-9536-01bdd7279879" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +71,7 @@
       <workItem from="1602745735347" duration="2470000" />
       <workItem from="1602763262850" duration="7339000" />
       <workItem from="1602780331519" duration="5132000" />
+      <workItem from="1602785483407" duration="345000" />
     </task>
     <task id="LOCAL-00001" summary="za">
       <created>1602131495033</created>
@@ -151,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602518431792</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="nopbaitap4">
+      <created>1602785655194</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602785655195</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +153,8 @@
     <MESSAGE value="za" />
     <MESSAGE value="baitap1" />
     <MESSAGE value="baitap2" />
-    <option name="LAST_COMMIT_MESSAGE" value="baitap2" />
+    <MESSAGE value="nopbaitap4" />
+    <option name="LAST_COMMIT_MESSAGE" value="nopbaitap4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602131317353">
@@ -176,18 +169,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602745859182" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602518431082">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602785654500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602518431082" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602785654500" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1602726374180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602726374180" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602518436136">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602785662767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602518436136" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602785662767" />
     <state x="108" y="105" width="1218" height="810" key="dock-window-1" timestamp="1602730099966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

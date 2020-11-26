@@ -28,13 +28,13 @@ body{
 }
 .khoinoidung{
     background-color: white;
-    height: 1000px;
+    height: 1010px;
     width: 900px;
     margin-left: 145px;
-    margin-top: 10px;
+
 }
 .noidung1{
-    height: 1000px;
+    height: 900px;
     width: 225px;
     background-color: #AFD3EB;
     margin-left: 10px;
@@ -57,14 +57,14 @@ b{
     display: block;
 }
 .noidung2{
-    height: 1000px;
+    height: 980px;
     width: 410px;
     background-color: #E0F8F7;
     margin-left: 10px;
     float: left;
 }
 .noidung3 {
-    height: 1000px;
+    height: 1010px;
     width: 225px;
     margin-left:10px ;
     float: left;

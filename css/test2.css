@@ -66,14 +66,31 @@ b{
 .noidung3 {
     height: 1000px;
     width: 225px;
-    background-color: #AFD3EB;
     margin-left:10px ;
     float: left;
 
 }
 .noidung2 p{
     line-height: 1.25;
+    color: #000000;
+    font-size:12px;
 
+}
+.content1{
+    height: 200px;
+    width: 225px;
+    background-color: #AFD3EB;
+}
+
+.content2{
+    height: 200px;
+    width: 225px;
+    background-color: #AFD3EB;
+}
+h3{
+    color: #0000FF;
+    font-size:14px;
+    font-weight:bold
 }
 
 

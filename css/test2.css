@@ -28,13 +28,13 @@ body{
 }
 .khoinoidung{
     background-color: white;
-    height: 500px;
+    height: 1000px;
     width: 900px;
     margin-left: 145px;
     margin-top: 10px;
 }
 .noidung1{
-    height: 400px;
+    height: 1000px;
     width: 225px;
     background-color: #AFD3EB;
     margin-left: 10px;
@@ -43,7 +43,7 @@ body{
 
 
 }
-p{  line-height: 5px;
+p{  line-height: 1.25;
     color: #1779CA;
     font-size:13px;
     font-weight:bold;
@@ -57,18 +57,22 @@ b{
     display: block;
 }
 .noidung2{
-    height: 400px;
+    height: 1000px;
     width: 410px;
     background-color: #E0F8F7;
     margin-left: 10px;
     float: left;
 }
 .noidung3 {
-    height: 400px;
+    height: 1000px;
     width: 225px;
     background-color: #AFD3EB;
     margin-left:10px ;
     float: left;
+
+}
+.noidung2 p{
+    line-height: 1.25;
 
 }
 

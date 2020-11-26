@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bdf0870-0185-415b-9536-01bdd7279879" name="Default Changelist" comment="" />
+    <list default="true" id="3bdf0870-0185-415b-9536-01bdd7279879" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ss13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/bootstrap-3.1.4/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demoJS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demoss7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/hoclythuyet5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/icoin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/lythuyetss7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ss12.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ss13.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ss6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/test2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoss7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoclythuyetbai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh1ss6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh2ss6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh3ss6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh4ss6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh5ss6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh6ss6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/aophong1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/aophong2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/aophong3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/aophong4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/aophong5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/aophong6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/backgroundss6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/cloud1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/could.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lythuyetss7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/css/ss12.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/demoJS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/hoclythuyet5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/ss12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +67,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
       </list>
@@ -19,6 +77,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iZpdaII4kPMdzaY23iI1ltky8P" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +103,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\0165s\WebstormProjects\nguyenvantruong\imgs" />
-      <recent name="C:\Users\0165s\WebstormProjects\nguyenvantruong\media" />
+      <recent name="C:\Users\0165s\WebstormProjects\nguyenvantruong\liv\bootstrap-3.1.4" />
+      <recent name="C:\Users\0165s\WebstormProjects\nguyenvantruong\liv\Bootstrap-3.1.4" />
+      <recent name="C:\Users\0165s\WebstormProjects\nguyenvantruong\liv\bootstrap 3.1.4" />
+      <recent name="C:\Users\0165s\WebstormProjects\nguyenvantruong\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,6 +137,35 @@
       <workItem from="1602780331519" duration="5132000" />
       <workItem from="1602785483407" duration="345000" />
       <workItem from="1602897942143" duration="718000" />
+      <workItem from="1602898677820" duration="4850000" />
+      <workItem from="1602904500126" duration="4376000" />
+      <workItem from="1602924729777" duration="1632000" />
+      <workItem from="1602942780342" duration="6631000" />
+      <workItem from="1603155486181" duration="1858000" />
+      <workItem from="1603157829763" duration="4250000" />
+      <workItem from="1603162167097" duration="6779000" />
+      <workItem from="1603329845705" duration="11665000" />
+      <workItem from="1603503379851" duration="3741000" />
+      <workItem from="1603763197511" duration="9247000" />
+      <workItem from="1603808108633" duration="59000" />
+      <workItem from="1603808303358" duration="24000" />
+      <workItem from="1604367113295" duration="7348000" />
+      <workItem from="1604538832081" duration="15000" />
+      <workItem from="1604539614499" duration="7207000" />
+      <workItem from="1604829423826" duration="2393000" />
+      <workItem from="1604833099834" duration="1096000" />
+      <workItem from="1604970899148" duration="729000" />
+      <workItem from="1604972581862" duration="177000" />
+      <workItem from="1604972794751" duration="52000" />
+      <workItem from="1604973184781" duration="109000" />
+      <workItem from="1605148496928" duration="9000" />
+      <workItem from="1605966417262" duration="366000" />
+      <workItem from="1606144564456" duration="127000" />
+      <workItem from="1606205660038" duration="1419000" />
+      <workItem from="1606319640032" duration="196000" />
+      <workItem from="1606332374798" duration="2280000" />
+      <workItem from="1606347785662" duration="1512000" />
+      <workItem from="1606353328455" duration="6030000" />
     </task>
     <task id="LOCAL-00001" summary="za">
       <created>1602131495033</created>
@@ -165,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602898453305</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="nopbaitap4">
+      <created>1602898685419</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602898685419</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,18 +291,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602745859182" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602898452695">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602898684567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602898452695" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602898684567" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1606144689622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606144689622" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1602726374180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602726374180" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602898473961">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602898688920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602898473961" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602898688920" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606364623382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606364623382" />
     <state x="108" y="105" width="1218" height="810" key="dock-window-1" timestamp="1602730099966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -211,9 +319,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602131065063" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602724730339">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602898746360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602724730339" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602898746360" />
   </component>
 </project>

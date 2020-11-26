@@ -1,0 +1,169 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+    line-height: 1.25; /* do dan dong */
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    max-width:100%;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+    float: none;
+}
+.content{
+    float: left;
+    width: 66.67%;
+    padding-right: 15px;
+}
+.side-bar{
+    float: left;
+    width: 33.33%;
+    padding-left: 15px;
+}
+/* xong phan layout */
+.header-box{
+    border-bottom:1px solid #DDDDDD ;
+    background-color: white;
+    padding: 30px 0;
+    height: 115px;
+}
+.logo-box{
+    float: left;
+    width: 30%;
+}
+.top-links{
+    float: right;
+    width: 30%;
+
+}
+.top-links li{
+    float: right;
+    list-style: none;
+    margin-left: 15px;
+    font-size: 16px;
+}
+.top-links-list{
+    display: block;
+    text-decoration: none;
+    color: black;
+    margin-right: 15px ;
+    font-weight: bold;
+}
+.menu-box{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 63px;
+}
+.menu li{
+    float: left;
+    display: block;
+    margin-right: 100px;
+
+}
+.menu .last-list-menu{
+    display: block;
+    float: right;
+    margin-right: 0px;
+}
+.menu li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+.main-box{
+    margin-top: 30px;
+}
+.body-content{
+    width: 100%;
+    background-color: white;
+    padding:40px;
+}
+.email-box{
+    width: 100%;
+    height: 448px;
+    background-color: #222222;
+    overflow: hidden;
+}
+.email-box h1{
+    color: white;
+    font-size: 27px;
+    padding-top: 45px;
+    padding-left: 35px;
+
+}
+.email-box p{
+    color: white;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 20px;
+}
+.thanh-nhap{
+    background-color: white;
+    margin-bottom: 10px;
+    width: 315px;
+    height: 55px;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+.thanh-nhap p{
+    color: #0000004d;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 19px;
+}
+.thanh-dang-ky{
+    background-color: red;
+    width: 315px;
+    height: 68px;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+.thanh-dang-ky p{
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 18px;
+}
+.Social{
+    margin-top: 50px;
+    width: 100%;
+    height: 300px;
+    background-color: white;
+}
+.Social h1{
+    font-size: 25px;
+    color: white;
+    background-color: #222222;
+    height: 65px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.icon-box{
+    width: 50px;
+    height: 50px;
+    background-color: #80808063;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 4px;
+    margin-right: -5px;
+    float: left;
+
+}
+.icon-box i{
+    font-size: 35px;
+    padding-top: 7px;
+    padding-left: 10px;
+
+}

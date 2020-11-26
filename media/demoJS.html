@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo JS</title>
+</head>
+<body>
+  <script type="text/javascript">
+     // day la noi viet js
+     var x;
+     x = 10;// x la 1 number
+     x = "hello"; // x la 1 string
+     var y = "world";
+     var z= x+y; // hello world
+     x = 20;
+     z = x+y; //20world
+     x = 10+20; //30
+     z = "xinchao"+" cac ban"+ 100;
+     y = 10+" haha";// 10 haha -> string
+     x = "10"+ 20;// 1020
+     if(x>20 && x>10){
+         console.log("x>20");
+     }else{
+         console.log("x<20")
+     }
+     for(var i=0;i<10;i++){
+         console.log(i*i);
+     }
+     x=30
+     while(x>20){
+         console.log(x);
+         x--;
+     }
+     do{
+         console.log(x*x);
+         x--;
+     }while(x>20);
+     var arr = [];
+     arr[0] = 15;
+     arr[1] = "hello";
+     arr[3] = 20;
+     for(var i=0;i<10;i++){
+         // arr[i] = i*i;
+         arr.push(i*i); // tu dong tang chi muc i
+     }
+     arr.push(17);
+     console.log(arr);
+
+     var s = 36;
+     if(arr.includes(s)){
+         console.log(s+" nam trong mang");
+     }else{
+         console.log(s+" khong co trong mang");
+     }
+
+     function TinhTong(a,b){
+         var c = a+b;
+         return c;
+     }
+     Hello();
+     function Hello(){
+         console.log("Xin chao...");
+     }
+     var m = Max(arr);
+     console.log("Max: "+m);
+     function Max(ary){
+         var max = ary[0];
+         for(var i=0;i<ary.lenght;i++){
+             if(max < ary[i]);
+             max = ary[i];
+         }
+         return max;
+     }
+     // alert("day la 1 canh bao...");
+      var kq= confirm("ban co chac chan nop bai thi");
+     console.log(kq);
+     if(kq){
+         // user chon dong y
+     }else{
+         //user chon cancel
+     }
+     var st = prompt("ban bao nhieu tuoi?");// tra ve string
+     console.log(st); //null neu nguoi dung nha cancel (null: khong co gia tri)
+     st = st+10;// 1810
+     // bien doi st tu string thanh number
+     st = parseInt(st);// chuyen "18" -> 18
+     // "18"->18
+     // "1a8"->1
+     // "a18"-> NaN: not a number
+     //isNaN(st) kiem tra xem st co phai NaN hay kh
+     if(!isNaN(st)){
+         console.log("ban da"+st+"tuoi");
+     }
+     // yeu cau nguoi dung phai nhap vao 1 so tu 0 den 99
+     do {
+         var n = prompt("nhap 1 so tu 1 den 99");
+
+         n = parseInt(n);
+     }while(n<0||n>99||isNaN(n));
+     var luckynumber = parseInt(Math.radom()*100);  x
+     if(luckynumber == n){
+         alert("chuc mung ban trung thuong 100ty");
+     }
+     //5 so ngai nhien tu 0-99 khac nhau
+     var lk=[];
+     for(var i=0;i<5;i++){
+         do{
+             var x = parseInt(Math.radom()*100);
+         }while (lk.includes(x) || x>99 || x<0);
+         lk.push(x);
+     }
+     // ra day se co 5 so ngau nhien khac nhau
+  </script>
+</body>
+</html>

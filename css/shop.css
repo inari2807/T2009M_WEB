@@ -1,0 +1,49 @@
+.section{float: left;width: 100%;}
+.top-links li{
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+}
+.top-links i{
+    font-size: 50px;
+    transition: color 300ms;
+}
+.top-links i:hover{
+    color: red;
+}
+.bg{
+    width: 400px;
+    height: 200px;
+    border: 1px solid red;
+    background-color: lightgoldenrodyellow;
+    position: relative;
+    padding: 20px;
+}
+.child{
+    width: 50px;
+    height: 50px;
+    background-color: darkred;
+    position: absolute;
+    right:0;
+    top: 0;
+}
+.bg-fade{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    opacity: 0.5;
+    z-index: 9;
+}
+.popup{
+    width: 400px;
+    height: 200px;
+    background-color: #ffffff;
+    position: fixed;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 10;
+}

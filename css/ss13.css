@@ -1,0 +1,15 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    bottom: 0px;
+}
+.section{
+    background-color: #868585;
+    height: 100px;
+
+}
+.food{
+    color: #2aabd2;
+    text-align: center;
+    font-size: 60px;
+}
